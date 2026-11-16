@@ -1,6 +1,3 @@
-
-
-
 text=input("enter the string:")
 
 print("*"*10+"INDEXING AND SLICING"+"*"*10)
@@ -54,5 +51,3 @@ start=input("enter a start:")
 end=input("enter a end:")
 
 print("does the string start with '"+start+"':",text.startswith(start))
-
-print("does the string end with '"+end+"':",text.endswith(end))
