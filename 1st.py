@@ -1,0 +1,5 @@
+ name=input("enter student name")
+usn=input("enter usn:")
+mark1=float(input("enter marks in course1:"))
+marks2=float(input("enter marks in cours2:")
+marks3=float(input("enter marks in course3:"))
